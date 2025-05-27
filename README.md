@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 Hi, I'm Syed Qarib Ali Naqvi
 
-<!--
-**qaribshah/qaribshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student | Tech Enthusiast**
 
-Here are some ideas to get you started:
+I have hands-on experience in **C++**, **web development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🧠 Technical Skills
+- **Languages:** C++, Python, JavaScript, HTML/CSS
+- **Tools & Platforms:** Git, GitHub, VS Code, Figma, Canva, WordPress
+- **SEO:** On-Page SEO, Off-Page SEO, Technical SEO, Local SEO, Keyword Research
+
+### 🏆 Achievements & Roles
+- 🌍 Represented **University of Central Punjab** in NASA Space Apps Challenge
+- 📚 Participated in and organized multiple national tech events and conferences
+
+### 📫 Let's Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sayedqaly)  
+
+---
+
+
+Thanks for visiting my profile! Don't forget to ⭐ your favorite repos.
