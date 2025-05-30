@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Syed Qarib Ali Naqvi
+# 👋 Hi, I'm Q Naqvi
 
 🎓 **Computer Science Student | Tech Enthusiast**
 
