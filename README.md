@@ -12,7 +12,7 @@ I have hands-on experience in **C++**, **web development**.
 
 ### 🏆 Achievements & Roles
 - 🌍 Represented **University of Central Punjab** in NASA Space Apps Challenge
-- 📚 Participated in and organized multiple national tech events and conferences
+- 📚 Participated in and organized multiple international and national tech events and conferences
 
 ### 📫 Let's Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sayedqaly)  
